@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) Disclosure
+
+Generative AI, specifically OpenAI’s ChatGPT, was used as an assistive tool in the preparation of this work. It was used to help organize information, refine wording, develop concise descriptions, and assist in structuring the infographic content. AI-generated information and suggestions were reviewed, fact-checked, edited, and verified against reliable references before being included. The authors retain full responsibility for the accuracy, interpretation, and final content of the work.
+
+This wording follows the general principle of transparently stating what AI was used for and confirming human review and responsibility, which is recommended in current academic AI-disclosure guidance.
+
+Jadan, James Vincent A. 
+BSChE-2A
+2025-01-06955
